@@ -1,3 +1,35 @@
+# MKIBAGS
+
+MKIBAGS id the front end of a small business landing page built with react and react-router to create a blog and storefront. MKIBAGS uses a wordpress backend as content managment and to handle the items and shopping cart capability.
+
+## Installation
+
+Clone down this repo.
+
+To install the dependencies:
+
+```
+npm install
+```
+
+To fire up a development server:
+
+```
+npm start
+```
+
+Once the server is running, you can visit:
+
+* Open http://localhost:3000 to view it in the browser.
+
+
+## Tech Stack
+
+- Backend: build using wordpress, mySQL 
+
+- Frontend: build using react
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
