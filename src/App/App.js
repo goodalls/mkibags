@@ -1,12 +1,13 @@
 import React from 'react';
 import Header from '../Header/Header.js';
-import Body from '../Body/Body';
+import Content from '../Content/Content';
+import './App.scss';
 
 const App = props => {
   return (
     <div className="App">
       <Header />
-      <Body />
+      <Content />
     </div>
   );
 };
