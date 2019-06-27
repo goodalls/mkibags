@@ -10,8 +10,8 @@ export default class Content extends Component {
   
   render() {
     return (
-      <div>
-        Body/Content
+      <div className='content'>
+        Body/Content....
       </div>
     );
   }
