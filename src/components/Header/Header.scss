@@ -1,20 +1,19 @@
 .Header {
-  height: 5em;
+  height: 7em;
   width: 100%;
   background-color: blue;
   /* position: fixed; */
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .one {
   background-color: brown;
+  background-image: url('../../Assets/logo.png');
+  background-repeat: no-repeat;
 }
 
 .two {
   background-color: green;
 }
 
-.three {
-  background-color: blue;
-}
